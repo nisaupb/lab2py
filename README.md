@@ -11,7 +11,7 @@
 1. mendefinisikan variable a dengan nilai 5
 2. mendefinisikan variable b dengan nilai 10
 3. m3nc3tak hasil penjumlahan a+b
-![gambar](screenshot/Screenshot%20(23).png)
+![gambar](screenshot/Screenshot%20(22).png)
 
 ## Latihan 3
 # - menjalankan IDLE
@@ -23,4 +23,4 @@
 4. # konversi nilai variable
 ## FYI jika typeerror: %d format: a number is required, not str"
 ## jika args adalah daftar atau tupel , % dapat digunakan sebagi penggantidalam kueri.jika args adalah dict, %(name)s dapat digunakan sebagaiplaceholder dalam kueri
-![gambar](screenshot/Screenshot%20(22).png
+![gambar](screenshot/Screenshot%20(23).png).png
